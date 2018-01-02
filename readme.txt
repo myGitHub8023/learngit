@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable inndex called stage.
 Git change traced.
 Git is good.
-Git id bad.
+Git id badest.
